@@ -1,0 +1,24 @@
+.logo {
+  height: 80px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navBar{
+  text-align: center;
+  margin-top: 10px;
+  background-color: teal;
+  padding: 20px;
+}
+.navBar a{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+.navBar a:hover{
+ background-color: mediumseagreen;
+ padding: 10px;
+ border-radius: 10px;
+
+}

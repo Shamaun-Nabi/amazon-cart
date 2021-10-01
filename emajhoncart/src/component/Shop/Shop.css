@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+}
+.productarea{
+    width: 70%;
+    margin: 20px;
+    border-right: 1px solid lightblue;
+}
+.cartarea{
+    margin: 10px;
+    
+}
